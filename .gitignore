@@ -1,0 +1,19 @@
+# File sistem macOS
+.DS_Store
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Folder virtual environment
+venv/
+env/
+.venv/
+
+# File video dan gambar sisa pengujian lokal agar tidak memberatkan GitHub
+*.mp4
+*.webm
+*.avi
+*.jpg
+*.jpeg
+*.png
